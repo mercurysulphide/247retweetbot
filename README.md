@@ -8,6 +8,8 @@ You will need to have an activated Twitter for Developers account. Apply here wi
 
 You will need to install tweepy before using. All you have to do is type "pip install tweepy" into your python terminal, and it will work.
 
+Download the blank.py file  and open it in your chosen program. I used Microsoft Visual Studio Code, and I'm unfamiliar with other programs.
+
 Make sure to fill in the Twitter Auth codes. There's four of them.
 
 As explained in the comments in the code, Twitter has a tweet limit. 1000 tweets per day, including retweets. This rate limit is maintained every half hour, so your account can post 20.86 tweets a half hour. The timer is automatically set to retweet a tweet from the search query every 200 seconds, but you can make it higher or lower. Making it lower than ~120seconds will almost certainly make you hit the tweet limit, but the choice is there.
