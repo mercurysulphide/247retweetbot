@@ -17,6 +17,6 @@ https://developer.twitter.com/en/docs/twitter-api/v1/rules-and-filtering/overvie
 
 # Known errors/bugs
 
-The bot cannot currently retweet things in reverse chronological order AKA the latest tweets. It tweets whatever is avaliable when it searches. Which can mean it sometimes retweets tweets made anywhere from 30 secondsa go all the way to 2017. I'm asking TwitterCommunity on advice for this.
+The bot cannot currently retweet things in reverse chronological order AKA the latest tweets. It tweets whatever is avaliable when it searches. Which can mean it sometimes retweets tweets made anywhere from 30 seconds ago all the way to 2009 (my bot personally has never gone to 2009, the oldest was 2017). I'm asking TwitterCommunity on advice for this.
 
 The bot will sometimes retweet tweets from accounts with your keyphrase. If your bot retweets any tweet with the word "frog" in it, every now and again, it'll retweet a tweet made by @froguser123. I don't know why this happens, but I'm assuming it's an issue with twitter's search function. Not sure whether I can fix it or not, but again, I've asked TwitterCommunity. I'll update both of these bugs once I receive info on whether it's fixable or not. 
